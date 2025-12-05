@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abusoki
-- 🌱 I’m currently learning Python, HTML, CSS.
-- 📫 How to reach me: xxxxxxx@xxxxxxx.com
+- 📫 How to reach me: CardBoardBonFire@GMail.com
 
 <!---
 Abusoki/Abusoki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
